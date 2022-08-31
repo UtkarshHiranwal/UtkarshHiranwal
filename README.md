@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UtkarshHiranwal
 - 👀 I’m interested in ...Machine Learning and Python
 - 🌱 I’m currently learning ...Machine Learning
-- 💞️ I’m looking to collaborate on ...Machine Learning Projects
+- 💞️ I’m looking to collaborate on ...Machine Learning Projects/Python Projects
 - 📫 How to reach me ...Email-utkarsh121100@gmail.com
 
 <!---
